@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/cad-cliente-npl/static/js/main.9e95bca2.chunk.js",
+    "main.js.map": "/cad-cliente-npl/static/js/main.9e95bca2.chunk.js.map",
+    "runtime-main.js": "/cad-cliente-npl/static/js/runtime-main.936c84ed.js",
+    "runtime-main.js.map": "/cad-cliente-npl/static/js/runtime-main.936c84ed.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/cad-cliente-npl/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.24173406.chunk.js": "/cad-cliente-npl/static/js/2.24173406.chunk.js",
+    "static/js/2.24173406.chunk.js.map": "/cad-cliente-npl/static/js/2.24173406.chunk.js.map",
+    "index.html": "/cad-cliente-npl/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/cad-cliente-npl/static/css/2.1a02f21c.chunk.css.map",
+    "static/js/2.24173406.chunk.js.LICENSE.txt": "/cad-cliente-npl/static/js/2.24173406.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.936c84ed.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.24173406.chunk.js",
+    "static/js/main.9e95bca2.chunk.js"
+  ]
+}
