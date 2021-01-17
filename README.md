@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Cadastro" src="https://lh3.googleusercontent.com/proxy/5Ewz0-R1AFFW24ZI60QkNOqWqqd_6BxDQhmwF0ff2Lr1r_ggfW4uX3v6DRyuwY1T2u8xagrXe3WQ8n2LE5hXIhuXx985FCzykFOHk_JYN5Ij9g" width="200px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CelsoJunioDev/cad-cliente-npl">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CelsoJunioDev/cad-cliente-npl">
+  <img alt="Stars" src="https://img.shields.io/github/stars/CelsoJunioDev/cad-cliente-npl">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/CelsoJunioDev/cad-cliente-npl">
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+<!--
+<h1 align="center">
+  <img alt="Home" src="https://res.cloudinary.com/matheuspires/image/upload/v1608076168/home_imjh7b.gif" width="400" />
+  <img alt="Pokedex" src="https://res.cloudinary.com/matheuspires/image/upload/v1608076006/pokemon_ismsal.gif" width="400" />
+</h1>
+--!>
 
-In the project directory, you can run:
+## :page_with_curl: Sobre
+Este repositório foi criado para atender aos requisitos de um teste imposto por uma empresa.
 
-### `yarn start`
+"Cadastro de clientes" é uma aplicação web que permite o cadastramento de clientes. Todos os dados cadastrados são exibidos em uma tabela organizados por data de inserção.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :hammer: Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-### `yarn test`
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Reactstrap - Bootstrap for react](https://reactstrap.github.io/)
+- [Styled-components](https://styled-components.com/)
+- [VS Code](https://code.visualstudio.com/) com [EditorConfig](https://editorconfig.org/), [ESLint](https://eslint.org/) e [Prettier](https://prettier.io/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :books: Requisitos
+- Ter [**Git**](https://git-scm.com/) para clonar o projeto.
+- Ter [**Node.js**](https://nodejs.org/en/) instalado.
+## :rocket: Começando
+``` bash
+  # Clonar o projeto:
+  $ https://github.com/CelsoJunioDev/cad-cliente-npl
 
-### `yarn build`
+  # Entrar no diretório:
+  $ cd npl-direct
+  
+  # Instalar as dependências:
+  $ yarn
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :gear: Iniciando servidor
+```bash
+  $ yarn start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito por Celso Junio. 👋🏻 [Get in touch!](https://github.com/CelsoJunioDev)
