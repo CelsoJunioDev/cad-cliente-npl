@@ -16,17 +16,19 @@
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-<!--
+
 <h1 align="center">
-  <img alt="Home" src="https://res.cloudinary.com/matheuspires/image/upload/v1608076168/home_imjh7b.gif" width="400" />
-  <img alt="Pokedex" src="https://res.cloudinary.com/matheuspires/image/upload/v1608076006/pokemon_ismsal.gif" width="400" />
+  <img alt="cadastro" src="/screenshot.png" width="800" />
+  
 </h1>
---!>
+
 
 ## :page_with_curl: Sobre
 Este repositório foi criado para atender aos requisitos de um teste imposto por uma empresa.
 
-"Cadastro de clientes" é uma aplicação web que permite o cadastramento de clientes. Todos os dados cadastrados são exibidos em uma tabela organizados por data de inserção.
+"Cad-clientes" é uma aplicação web que permite o cadastramento de dados de usuários. Todos os dados cadastrados são exibidos em uma tabela organizados por data de inserção.
+O campo "CPF" possui máscara.
+Back-end simulado por um arquivo .json
 
 ## :hammer: Tecnologias
 
