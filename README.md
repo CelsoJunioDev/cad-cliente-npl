@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Cadastro" src="https://lh3.googleusercontent.com/proxy/5Ewz0-R1AFFW24ZI60QkNOqWqqd_6BxDQhmwF0ff2Lr1r_ggfW4uX3v6DRyuwY1T2u8xagrXe3WQ8n2LE5hXIhuXx985FCzykFOHk_JYN5Ij9g" width="200px" />
+  Cadastro de clientes
 </h1>
 
 <p align="center">
